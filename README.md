@@ -1,3 +1,3 @@
 # taski-docker
-v 1.0
+4aizTaski v 1.0
 
