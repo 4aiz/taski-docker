@@ -4,3 +4,5 @@ docker compose -f docker-compose.production.yml up -d
 1. 
 2. 
 
+3. 
+
