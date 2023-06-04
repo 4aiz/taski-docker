@@ -5,11 +5,6 @@ volumes:
   pg_data_production:
   static_volume:
 
-<<<<<<< HEAD
-# Всё отличие – заменяем build на image и указываем, какой образ 
-=======
-# Всё отличие – заменяем build на image и указываем, какой образ использовать
->>>>>>> 499d273a9fe58cf64635e6dead728de6dc6a0ffa
 services:
   db:
     image: postgres:13.10
